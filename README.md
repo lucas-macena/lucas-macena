@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning javascript in order to improve my skill at job.
 - 👯 I’m looking to collaborate on coding at embedded systems to solve simple tasks.
 - 💬 Ask me about ideas and solutions about electronic.
-- 📫 How to reach me: lucasmacenal@hotmail.com
+- 📫 How to reach me: lucasmacenal45@gmail.com
